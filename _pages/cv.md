@@ -11,54 +11,49 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 2nd Ph.D. in Computer Science, Oregon State University, USA, 2023–Present (Expected: Summer 2027)
+* Ph.D. in Electrical Engineering – Communication Systems, K.N. Toosi University of Technology, Iran, 2012
+* M.Sc. in Electrical Engineering – Communication Systems, K.N. Toosi University of Technology, Iran, 2007
+* B.Sc. in Electrical Engineering – Electronics, Karaj University, Iran, 2005
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2023–Present: Graduate Teaching Assistant
+  * Computer Science Dept., Oregon State University
+  * Courses: Error Control Codes, Cryptography, Introduction to Theory of Computation
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019–2023: Associate Professor
+  * Electrical Engineering Dept., University of Guilan, Iran
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* 2013–2019: Assistant Professor
+  * Electrical Engineering Dept., University of Guilan, Iran
+  * Lecturer: Information Theory, Channel Coding, Advanced Channel Coding, Communication Systems, Advanced Computer Programming
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Multi-User Information Theory, Coding Theory, Signal Processing, Estimation Theory
+* Optimization: Linear, Non-linear, and Dynamic Optimization, Game Theory
+* Machine Learning: Neural Networks, Genetic Algorithms, Statistical Learning, Particle Swarm Optimization
+* Software: MATLAB (Symbolic Computation, Simulink), Python, C++, Orcad, PSpice
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
+    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer: IEEE Transactions on Information Theory, IEEE Transactions on Communications, ISA Transactions (Elsevier), Journal of Communication Engineering, Iranian Journal of Science and Technology
